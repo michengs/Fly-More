@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Fly-More",
+	"options": {
+		"niceName": "无限飞行",
+		"guiName": "无限飞行"
+	},
+	"author": "ZC",
+	"description": "描述: 无限飞行体力",
+	"servers": ["https://raw.githubusercontent.com/zc149352394/Fly-More/master/"],
+	"supportUrl": "https://github.com/zc149352394/Fly-More/issues"
+}
